@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication", "MvcApplication\MvcApplication.csproj", "{43806537-CC20-4B8F-B161-AD0B8AB6E3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcRouteConfig", "MvcRouteConfig\MvcRouteConfig.csproj", "{89B9DD55-B118-42EE-A9B4-343C86375BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43806537-CC20-4B8F-B161-AD0B8AB6E3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43806537-CC20-4B8F-B161-AD0B8AB6E3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43806537-CC20-4B8F-B161-AD0B8AB6E3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43806537-CC20-4B8F-B161-AD0B8AB6E3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B9DD55-B118-42EE-A9B4-343C86375BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B9DD55-B118-42EE-A9B4-343C86375BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B9DD55-B118-42EE-A9B4-343C86375BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B9DD55-B118-42EE-A9B4-343C86375BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
